@@ -35,5 +35,9 @@ export default function (state = {}, action) {
         ...state,
         comment: action.payload
       }
+    default:
+        return {
+            state
+        }
   }
 }
