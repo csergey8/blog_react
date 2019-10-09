@@ -1,1 +1,4 @@
-Run application locally - npm run start
+Run application locally 
+`````
+npm run start
+``````
